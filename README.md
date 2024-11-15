@@ -12,6 +12,8 @@ The file "Op-amp Graph Generator.xlsx" in this directory is an Excel spreadsheet
 * Inverting Amplifier + Bias Voltage
 * Inverting Amplifier + Bias + LPF
 * Non-Inverting Amplifier
+* Non-Inverting Amplifier for Measuring Solution Conductivity (NonInv CMC)
+* Non-Inverting Amplifier for Measuring Thermocouple Voltage (NonInv Thermocouple)
 * Non-Inverting Amplifier + LPF
 * Non-Inverting Amplifier + LPF (Unity Gain)
 * Non-Inverting Amplifier + HPF (two variants)
