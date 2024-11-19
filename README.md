@@ -9,7 +9,8 @@ The file "Op-amp Graph Generator.xlsx" in this directory is an Excel spreadsheet
 * Inverting Amplifier/Invertor
 * Inverting Aplifier + LPF
 * Inverting Aplifier + HPF
-* Inverting Amplifier + Bias Voltage
+* Inverting Amplifier + Bias
+* Inverting Amplifier + Bias of V+/2 (Probe Referenced to V+/2)
 * Inverting Amplifier + Bias + LPF
 * Non-Inverting Amplifier
 * Non-Inverting Amplifier for Measuring Solution Conductivity (NonInv CMC)
@@ -18,6 +19,7 @@ The file "Op-amp Graph Generator.xlsx" in this directory is an Excel spreadsheet
 * Non-Inverting Amplifier + LPF (Unity Gain)
 * Non-Inverting Amplifier + HPF (two variants)
 * Non-Inverting Amplifier + Bias
+* Non-Inverting Amplifier + Bias of V+/2 (Probe Referenced to V+/2)
 * Differential Amplifier
 * Summing Inverting Amplifier (2 and 3 inputs)
 * Summing Non-Inverting Amplifier
